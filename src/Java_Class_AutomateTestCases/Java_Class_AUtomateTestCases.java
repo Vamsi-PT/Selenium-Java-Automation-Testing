@@ -13,12 +13,12 @@ public class Java_Class_AUtomateTestCases {
 		
 		driver.manage().window().maximize();
 		
-		Thread.sleep(3000);
+		Thread.sleep(10000);
 		
 		driver.get("https://www.google.com/");
 		Thread.sleep(3000);
 		
-		driver.navigate().to("https://jpetstore.aspectran.com/");
+		driver.navigate().to("https://www.jpetstore.aspectran.com/");
 		Thread.sleep(3000);
 		
 		driver.navigate().refresh();
