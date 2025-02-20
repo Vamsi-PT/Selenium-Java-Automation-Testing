@@ -24,7 +24,7 @@ public class TestNG_TimeOut_Scripting {
   @Test
   public void Jpetstore() {
 	  
-	  driver.get("https://jpetstore.aspectran.com/");
+	  driver.get("https://www.jpetstore.aspectran.com/");
   }
   
   
