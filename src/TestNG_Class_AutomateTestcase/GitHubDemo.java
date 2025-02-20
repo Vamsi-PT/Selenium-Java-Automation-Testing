@@ -17,7 +17,7 @@ public class GitHubDemo {
   @BeforeTest
   public void beforeTest() {
 	  
- driver = new ChromeDriver();
+     driver = new ChromeDriver();
 	  
 	  driver.manage().window().maximize();
   }
