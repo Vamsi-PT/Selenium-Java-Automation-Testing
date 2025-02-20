@@ -15,7 +15,7 @@ public class TestNG_PopUp_HandlingScripting {
   public void PopUp() throws InterruptedException {
 	  
 	  driver.get("https://www.techlearn.in/code/prompt-dialog-box/");
-		Thread.sleep(2000);
+		Thread.sleep(5000);
 		
 		driver.findElement(By.xpath("//button[@onclick='myFunction()']")).click();
 		
