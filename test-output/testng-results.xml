@@ -2,24 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-03T17:48:22 IST" name="Default suite" finished-at="2025-02-03T17:48:59 IST" duration-ms="37128">
+  <suite started-at="2025-02-20T07:59:25 IST" name="Default suite" finished-at="2025-02-20T07:59:32 IST" duration-ms="6515">
     <groups>
     </groups>
-    <test started-at="2025-02-03T17:48:22 IST" name="Default test" finished-at="2025-02-03T17:48:59 IST" duration-ms="37128">
-      <class name="TestNG_Class_AutomateTestcase.TestNG_FileUpload_Scripting">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNG_Class_AutomateTestcase.TestNG_FileUpload_Scripting@57a3af25]" started-at="2025-02-03T17:48:22 IST" name="beforeClass" finished-at="2025-02-03T17:48:27 IST" duration-ms="4919" status="PASS">
+    <test started-at="2025-02-20T07:59:25 IST" name="Default test" finished-at="2025-02-20T07:59:32 IST" duration-ms="6515">
+      <class name="TestNG_Class_AutomateTestcase.GitHubDemo">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestNG_Class_AutomateTestcase.GitHubDemo@77847718]" started-at="2025-02-20T07:59:25 IST" name="beforeTest" finished-at="2025-02-20T07:59:30 IST" duration-ms="4233" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method signature="fileUpload()[pri:0, instance:TestNG_Class_AutomateTestcase.TestNG_FileUpload_Scripting@57a3af25]" started-at="2025-02-03T17:48:27 IST" name="fileUpload" finished-at="2025-02-03T17:48:59 IST" duration-ms="31978" status="PASS">
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:TestNG_Class_AutomateTestcase.GitHubDemo@77847718]" started-at="2025-02-20T07:59:30 IST" name="f" finished-at="2025-02-20T07:59:32 IST" duration-ms="2188" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- fileUpload -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNG_Class_AutomateTestcase.TestNG_FileUpload_Scripting@57a3af25]" started-at="2025-02-03T17:48:59 IST" name="afterClass" finished-at="2025-02-03T17:48:59 IST" duration-ms="189" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- TestNG_Class_AutomateTestcase.TestNG_FileUpload_Scripting -->
+        </test-method> <!-- f -->
+      </class> <!-- TestNG_Class_AutomateTestcase.GitHubDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
