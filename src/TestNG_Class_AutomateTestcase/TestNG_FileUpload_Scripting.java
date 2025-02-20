@@ -53,7 +53,7 @@ public class TestNG_FileUpload_Scripting {
 	  
 	  
 	  
-	 Thread.sleep(3000);
+	 Thread.sleep(50000);
 	 
 	 
 	// driver.findElement(By.xpath("//*[@id=\"field-ioa3T81OSsEXwhP\"]")).sendKeys("E:\\Selenium Java Project Framework Folder Structure.docx");
@@ -84,7 +84,7 @@ public class TestNG_FileUpload_Scripting {
   @AfterClass
   public void afterClass() {
 	  
-	  driver.close();
+	  driver.quit();
   }
 
 }
